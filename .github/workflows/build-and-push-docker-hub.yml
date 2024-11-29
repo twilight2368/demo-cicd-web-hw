@@ -30,7 +30,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: twilight2368/ci-cd:staging2
+          tags: twilight2368/ci-cd:staging3
 
 
   pull-and-up:
